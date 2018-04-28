@@ -17,6 +17,7 @@ namespace UltUniversity.Models
         public string LastName { get; set; }
 
         [Required]
+        [Column("FirstName")]
         [Display(Name = "First Name")]
         [StringLength(50)]
         public string FirstMidName { get; set; }
@@ -32,6 +33,7 @@ namespace UltUniversity.Models
             get { return LastName + ", " + FirstMidName; }
         }
 
- 
+        public ICollection<CourseAssignment> CourseAssignments { get; set; }
+        public OfficeAssignment OfficeAssignment { get; set; }
     }
 }
