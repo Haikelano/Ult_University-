@@ -22,3 +22,15 @@ C:\Users\Railoh\source\repos\UltUniversity\Ult_University-\UltUniversity\obj\Deb
 C:\Users\Railoh\source\repos\UltUniversity\Ult_University-\UltUniversity\obj\Debug\netcoreapp2.0\UltUniversity.AssemblyInfo.cs
 C:\Users\Railoh\source\repos\UltUniversity\Ult_University-\UltUniversity\obj\Debug\netcoreapp2.0\UltUniversity.dll
 C:\Users\Railoh\source\repos\UltUniversity\Ult_University-\UltUniversity\obj\Debug\netcoreapp2.0\UltUniversity.pdb
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\bin\Debug\netcoreapp2.0\UltUniversity.deps.json
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\bin\Debug\netcoreapp2.0\UltUniversity.runtimeconfig.json
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\bin\Debug\netcoreapp2.0\UltUniversity.runtimeconfig.dev.json
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\bin\Debug\netcoreapp2.0\UltUniversity.dll
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\bin\Debug\netcoreapp2.0\UltUniversity.pdb
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\obj\Debug\netcoreapp2.0\UltUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\obj\Debug\netcoreapp2.0\UltUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\obj\Debug\netcoreapp2.0\UltUniversity.AssemblyInfoInputs.cache
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\obj\Debug\netcoreapp2.0\UltUniversity.AssemblyInfo.cs
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\obj\Debug\netcoreapp2.0\UltUniversity.dll
+C:\Users\Railoh\source\repos\Ult_University-\UltUniversity\obj\Debug\netcoreapp2.0\UltUniversity.pdb

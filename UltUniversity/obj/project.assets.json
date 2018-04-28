@@ -13235,11 +13235,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Railoh\\source\\repos\\UltUniversity\\Ult_University-\\UltUniversity\\UltUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\Railoh\\source\\repos\\Ult_University-\\UltUniversity\\UltUniversity.csproj",
       "projectName": "UltUniversity",
-      "projectPath": "C:\\Users\\Railoh\\source\\repos\\UltUniversity\\Ult_University-\\UltUniversity\\UltUniversity.csproj",
+      "projectPath": "C:\\Users\\Railoh\\source\\repos\\Ult_University-\\UltUniversity\\UltUniversity.csproj",
       "packagesPath": "C:\\Users\\Railoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Railoh\\source\\repos\\UltUniversity\\Ult_University-\\UltUniversity\\obj\\",
+      "outputPath": "C:\\Users\\Railoh\\source\\repos\\Ult_University-\\UltUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
