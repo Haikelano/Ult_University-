@@ -1,8 +1,6 @@
 ﻿@model UltUniversity.Models.SchoolViewModels.InstructorIndexData
 
-@{
-    ViewData["Title"] = "Instructors";
-}
+
 
 <h2>Instructors</h2>
 
@@ -53,21 +51,21 @@
                     }
                 </td>
                 <td>
-                    <a asp-action="Index" asp-route-id="@item.ID">Select</a> |
-                    <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                    <a asp-action="Index" asp-route-id="@item.ID"> <span class="label label-primary">Select </span></a> |
+                    <a asp-action="Edit" asp-route-id="@item.ID"><span class="label label-info">Edit</span></a> |
+                    <a asp-action="Details" asp-route-id="@item.ID"><span class="label label-info" >Details</span></a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID"><span class="label label-danger">Delete</span></a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
 
-ok baby
+
 @if (Model.Courses != null)
 {
     <h3>Courses Taught by Selected Instructor</h3>
-    <table class="table">
+    <table class="table table-st">
         <tr>
             <th></th>
             <th>Number</th>
@@ -106,7 +104,7 @@ ok baby
     <h3>
         Students Enrolled in Selected Course
     </h3>
-    <table class="table">
+    <table class="table table-striped">
         <tr>
             <th>Name</th>
             <th>Grade</th>
