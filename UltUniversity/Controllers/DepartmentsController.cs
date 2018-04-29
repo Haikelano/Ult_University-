@@ -118,7 +118,7 @@ namespace UltUniversity.Controllers
                 return View(deletedDepartment);
             }
 
-            _context.Entry(departmentToUpdate).Property("RowVersion").OriginalValue = rowVersion;
+          
 
             if (await TryUpdateModelAsync<Department>(
                 departmentToUpdate,
@@ -168,7 +168,7 @@ namespace UltUniversity.Controllers
                                 + "have been displayed. If you still want to edit this record, click "
                                 + "the Save button again. Otherwise click the Back to List hyperlink.");
                         
-                        ModelState.Remove("RowVersion");
+                      
                     }
                 }
             }
