@@ -24,6 +24,7 @@ namespace UltUniversity.Models
     public DateTime StartDate { get; set; }
 
     public int? InstructorID { get; set; }
+   
 
 
 
